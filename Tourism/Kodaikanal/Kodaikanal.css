@@ -1,0 +1,24 @@
+
+
+
+.container1{
+    display: flex;
+    }
+.container2{
+    display: flex;
+}
+.container3{
+    display: flex;
+}
+.container4{
+    display: flex;
+}
+.box{
+    width: 50%; 
+    padding: 20px; 
+    box-sizing: border-box; 
+    border: 0cap;
+    }
+    .box.img{
+        width: 400px;
+    }
